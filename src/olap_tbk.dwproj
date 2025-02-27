@@ -56,7 +56,7 @@
           <ConfigurationSetting>
             <Id>olap_dw</Id>
             <Name>olap_dw</Name>
-            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=olap;Integrated Security=SSPI;Initial Catalog=olap_dw</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=olap;Integrated Security=SSPI;Initial Catalog=olap_dw_short</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
